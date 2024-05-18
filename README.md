@@ -1,0 +1,2 @@
+Pixel manipulation is a technique used for image encryption where the individual pixels of an image are modified to obscure the original content. This makes the image unintelligible without the decryption process. 
+Pixel manipulation is a good starting point for understanding image encryption. While it can provide a basic level of security, for robust encryption, it's often combined with more advanced cryptographic algorithms.
